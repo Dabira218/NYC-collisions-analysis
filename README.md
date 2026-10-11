@@ -1,4 +1,4 @@
-### NYC-collisions-analysis
+### NYC collisions analysis
 
 ## Introduction:
 Road traffic collisions are a major public safety concern. This project analyzes NYC motor vehicle collision data using Microsoft Excel to identify collision patterns, contributing factors, and areas requiring improved road safety.
